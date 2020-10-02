@@ -27,17 +27,10 @@ Hey there ! I'm darshan gohel. I'm interested in Data structure and ALgorithms. 
 
 
 **git more**
-
 <br />
 - 🔭 I’m final year computer engineering student.</br>
 - 🌱 I’m currently learning machine learning and data science.</br>
 - 👯 I’m looking to collaborate on open source project.</br>
 - 💬 Ask me about anything, i would like to answer.</br>
 - 📫 How to reach me: [twitter](https://twitter.com/dkg619)</br>
-- 😄 Pronouns: ...</br>
-- ⚡ Fun fact: ...</br>
 </br>
-<!--
-**dkgohel/dkgohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
