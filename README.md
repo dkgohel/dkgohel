@@ -29,9 +29,11 @@ Hey there ! I'm darshan gohel. I'm interested in Data structure and Algorithms. 
 **git more**
 <br />
 - 🔭 I’m final year computer engineering student.</br>
-- 🌱 I’m currently learning machine learning and data science.</br>
+- 🌱 I’m currently learning **Python**, machine learning and data science.</br>
+- 🔭 I'm competitive coder, having robust skills of problem solving and critical thinking using C++ and Python.
 - 👯 I’m looking to collaborate on open source project.</br>
 - 💬 Ask me about anything, i would like to answer.</br>
-- 📫 How to reach me: [twitter](https://twitter.com/dkg619) , [Linkedin](https://www.linkedin.com/in/darshan-g-b3a5b2155/)</br>
+- 📫 How to reach me: [email](darshan.gohel619@gmail.com) , [Linkedin](https://www.linkedin.com/in/darshan-g-b3a5b2155/)</br>
+- 👀 My [resume](https://drive.google.com/file/d/1pKwGnNbCJlWSJ4uPIR9HjzijHq0wVXZz/view?usp=sharing) for more about me.
 </br>
 I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. I love trying out new technologies and update with modern tools helping our lives more easier. I like to play chess and cricket.
