@@ -25,18 +25,19 @@
 
 Hey there ! I'm darshan gohel. I'm interested in Data structure and ALgorithms. Currently sharpening my Python skills more and more.
 
-<!--
-**dkgohel/dkgohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**git more**
+
 <br />
 - 🔭 I’m final year computer engineering student.
-- 🌱 I’m currently learning data science and machine learning.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning machine learning and data science.
+- 👯 I’m looking to collaborate on open source project.
 - 💬 Ask me about anything, i would like to answer.
-- 📫 How to reach me: 
+- 📫 How to reach me: [twitter](https://twitter.com/dkg619)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </br>
+<!--
+**dkgohel/dkgohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
