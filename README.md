@@ -13,6 +13,9 @@
   <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
 </a>
 
+<a href="https://www.hackerearth.com/@d.k.">
+  <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
+</a>
 <a href="https://www.hackerrank.com/darshangoheldz">
   <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
