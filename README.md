@@ -32,5 +32,5 @@ Hey there ! I'm darshan gohel. I'm interested in Data structure and ALgorithms. 
 - 🌱 I’m currently learning machine learning and data science.</br>
 - 👯 I’m looking to collaborate on open source project.</br>
 - 💬 Ask me about anything, i would like to answer.</br>
-- 📫 How to reach me: [twitter](https://twitter.com/dkg619)</br>
+- 📫 How to reach me: [twitter](https://twitter.com/dkg619) , [Linkedin](https://www.linkedin.com/in/darshan-g-b3a5b2155/)</br>
 </br>
