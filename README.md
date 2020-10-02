@@ -9,9 +9,6 @@
 <a href="mailto:darshan.gohel619@email.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://leetcode.com/jaydeep9979/">
-  <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
-</a>
 <a href="https://www.hackerrank.com/darshangoheldz">
   <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
