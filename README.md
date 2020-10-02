@@ -34,3 +34,4 @@ Hey there ! I'm darshan gohel. I'm interested in Data structure and Algorithms. 
 - 💬 Ask me about anything, i would like to answer.</br>
 - 📫 How to reach me: [twitter](https://twitter.com/dkg619) , [Linkedin](https://www.linkedin.com/in/darshan-g-b3a5b2155/)</br>
 </br>
+I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. I love trying out new technologies and update with modern tools helping our lives more easier. I like to play chess and cricket.
