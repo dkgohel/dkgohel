@@ -23,7 +23,7 @@
 <br />
 <br />
 
-Hey there ! I'm darshan gohel. I'm interested in Data structure and ALgorithms. Currently sharpening my Python skills more and more.
+Hey there ! I'm darshan gohel. I'm interested in Data structure and Algorithms. Currently sharpening my Python skills more and more.
 
 
 **git more**
