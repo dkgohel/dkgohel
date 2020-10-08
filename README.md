@@ -1,7 +1,5 @@
 ### Hello World 👋
 
-[![HitCount](http://hits.dwyl.com/dkgohel/dkgohel.svg)](http://hits.dwyl.com/dkgohel/dkgohel)
-
 ### Darshan Gohel
 <a href="https://www.linkedin.com/in/darshan-g-b3a5b2155/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
