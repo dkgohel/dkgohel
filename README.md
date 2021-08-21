@@ -21,15 +21,12 @@
 <br />
 <br />
 
-Hey there ! I'm darshan gohel. I'm interested in Data structure and Algorithms. Currently sharpening my Python skills more and more.
-
 
 **git more**
 <br />
-- 🔭 I’m final year computer engineering student.</br>
-- 🔭 I'm competitive coder, having robust skills of problem solving and critical thinking using C++ and Python.
-- 👯 I have experience of Java spring boot, spring data jpa & react/nextjs.</br>
-- 💬 Ask me about anything, i would like to answer.</br>
+- 🔭 Full stack java spring boot developer</br>
+- 🖼️ Having experience in Ant-Design.
+- 🔐 Learning and sharpening keycloak integration with spring boot</br>
 - 📫 How to reach me: [email](darshan.gohel619@gmail.com) , [Linkedin](https://www.linkedin.com/in/darshan-g-b3a5b2155/)</br>
 - 👀 My [resume](https://drive.google.com/file/d/1pKwGnNbCJlWSJ4uPIR9HjzijHq0wVXZz/view?usp=sharing) for more about me.
 </br>
