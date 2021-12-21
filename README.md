@@ -27,8 +27,9 @@
 **git more**
 <br />
 - 🔭 Full stack java spring boot developer</br>
-- 🖼️ Having experience in Ant-Design.
-- 🔐 Learning and sharpening keycloak integration with spring boot</br>
+- 🖼️ Working in fintech domain.
+- 🏗️ Building NextGen Lending stack.
+- 🔐 Learning in **Web3** and **smart contracts**.
 - 📫 How to reach me: [email](darshan.gohel619@gmail.com) , [Linkedin](https://www.linkedin.com/in/darshan-g-b3a5b2155/)</br>
 - 👀 My [resume](https://drive.google.com/drive/u/0/folders/1Iw6qMgEv5EeZAYZo_SsE2kDEkGYgHwh8) for more about me.
 </br>
