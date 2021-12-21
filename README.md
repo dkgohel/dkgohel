@@ -1,6 +1,8 @@
 ### Hello World 👋
 
 ### Darshan Gohel
+
+###### Working in fintech domain
 <a href="https://www.linkedin.com/in/darshan-g-b3a5b2155/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
@@ -28,7 +30,7 @@
 - 🖼️ Having experience in Ant-Design.
 - 🔐 Learning and sharpening keycloak integration with spring boot</br>
 - 📫 How to reach me: [email](darshan.gohel619@gmail.com) , [Linkedin](https://www.linkedin.com/in/darshan-g-b3a5b2155/)</br>
-- 👀 My [resume](https://drive.google.com/file/d/1pKwGnNbCJlWSJ4uPIR9HjzijHq0wVXZz/view?usp=sharing) for more about me.
+- 👀 My [resume](https://drive.google.com/drive/u/0/folders/1Iw6qMgEv5EeZAYZo_SsE2kDEkGYgHwh8) for more about me.
 </br>
 
 The only thing that is constant is change. I love trying out new technologies and update with modern tools helping our lives more easier. I like to play chess and cricket.
