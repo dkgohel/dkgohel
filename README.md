@@ -34,4 +34,4 @@
 - 👀 My [resume](https://drive.google.com/drive/u/0/folders/1Iw6qMgEv5EeZAYZo_SsE2kDEkGYgHwh8) for more about me.
 </br>
 
-The only thing that is constant is change. I love trying out new technologies and update with modern tools helping our lives more easier. I like to play chess and cricket.
+Change is the only contant in developers life. I love trying out new technologies and update with modern tools helping our lives more easier. I like to play chess and cricket.
